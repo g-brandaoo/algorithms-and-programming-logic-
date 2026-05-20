@@ -57,76 +57,76 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 
 # Introdução a algoritmos
 
-- *Lógica*
+- *lógica*
 
-- *Resolução de problemas*
+- *resolução de problemas*
 
-- *Sequência lógica*
+- *sequência lógica*
 
-- *Pensamento algorítmico*
+- *pensamento algorítmico*
 
-- *Representação de algoritmos*
+- *representação de algoritmos*
 
-- *Fluxos de execução*
+- *fluxos de execução*
 
 - # Aprendeu 
 
-- *Transformar problema em passos*
+- *transformar problema em passos*
 
-- *Pensar antes de codar*
+- *pensar antes de codar*
 
 # Primeiro algoritmo
 
-- *Estrutura básica de um algoritmo*
+- *estrutura básica de um algoritmo*
 
-- *Resolução de problemas*
+- *resolução de problemas*
 
-- *Inicio e fim*
+- *inicio e fim*
 
-- *Comandos de saída*
+- *comandos de saída*
 
-- *Organização do código*
+- *organização do código*
 
 - # Aprendeu 
 
-- *Como um programa é estruturado*
+- *como um programa é estruturado*
 
-- *Fluxo básico de execução*
+- *fluxo básico de execução*
 
 # Comandos de Entrada e Operadores
 
-- *Entrada de dados*
+- *entrada de dados*
 
-- *Saída de dados*
+- *saída de dados*
 
-- *Variáveis*
+- *variáveis*
 
-- *Tipos de dados*
+- *tipos de dados*
 
-- *Operadores aritméticos*
+- *operadores aritméticos*
 
 - # Exemplos
 
-- *Soma*
+- *soma*
 
-- *Divisão*
+- *divisão*
 
-- *Cálculo de média*
+- *cálculo de média*
 
 - # Aprendeu 
 
 - *Manipulação de dados*
 
-- *Cálculos básicos*
-- *Interação com usuário*
+- *cálculos básicos*
+- *interação com usuário*
 
 # Operadores Lógicos e Relacionais
 
-- *Maior que*
+- *maior que*
 
-- *Menor que*
+- *menor que*
 
-- *Igual*
+- *igual*
 
 - *Diferente*
 
@@ -138,11 +138,107 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 
 - # Aprendeu 
 
-- *Comparação de valores*
+- *comparação de valores*
 
-- *Validação de condições*
+- *validação de condições*
 
-- *Tomada de decisão lógica*
+- *tomada de decisão lógica*
+
+# Estruturas Condicionais 1 e 2
+
+- *se*
+
+- *senao*
+
+- *escolha/caso*
+
+- *condições aninhadas*
+
+- # Aprendeu 
+
+- *criar decisões no sistema*
+
+- *validar situações diferentes*
+
+# Estruturas de Repetição 1, 2 e 3
+
+- *para*
+
+- *enquanto*
+
+- *repita*
+
+- # Aprendeu 
+
+- *automatizar tarefas*
+
+- *criar loops*
+
+- *repetir processos sem duplicar código*
+
+# Procedimentos
+
+- *modularização*
+
+- *reutilização de código*
+
+- *separação de responsabilidades*
+
+- # Aprendeu 
+
+- *organizar programas*
+
+- *evitar repetição*
+
+- *dividir problemas grandes*
+
+# Funções
+
+- *retorno de valores*
+
+- *parâmetros*
+
+- *reutilização de lógica*
+
+- # Aprendeu 
+
+- *criar códigos reutilizáveis*
+
+- *melhorar organização*
+
+- *tornar algoritmos mais profissionais*
+
+ # Vetores
+
+- *armazenamento de múltiplos valores*
+
+- *índices*
+
+- *percorrer listas*
+
+- # Aprendeu 
+
+- *manipular conjuntos de dados*
+
+- *organizar informações*
+
+- *trabalhar com estruturas maiores*
+
+# Matrizes
+
+- *arrays bidimensionais*
+
+- *linhas e colunas*
+
+- *armazenamento tabular*
+
+- # Aprendeu 
+
+- *trabalhar com tabelas*
+
+- *organizar dados complexos.*
+
+- *estruturar informações em duas dimensões.*
 </p>
 
 ---
