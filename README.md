@@ -12,7 +12,7 @@
 
 Repositório criado para armazenar meus estudos, exercícios e projetos desenvolvidos durante o curso de lógica de programação utilizando Portugol e Visualg.
 
-O objetivo deste repositório é acompanhar minha evolução na programação, praticando os fundamentos mais importantes da lógica antes de avançar para linguagens como Python, JavaScript e Java. 
+O objetivo deste repositório é acompanhar minha evolução na programação, praticando os fundamentos mais importantes da lógica antes de avançar para linguagens como Python, Bash e SQL. 
 
 </p>
 
@@ -48,4 +48,60 @@ O objetivo deste repositório é acompanhar minha evolução na programação, p
 
 > *GitHub*
 
+</p>
+
 ---
+
+<p align="left"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Conte%C3%BAdos+estudados" alt="Typing SVG" /></a>
+
+# Fundamentos 
+
+> *Variáveis*
+
+> *Tipos de dados*
+
+> *Operadores*
+
+> *Entrada e saída de dados*
+
+# Estruturas condicionais 
+
+> *se*
+
+> *senao*
+
+> *escolha caso*
+
+# Estruturas de repetição 
+
+> *enquanto*
+
+> *para*
+
+> *repita ate*
+
+# Vetores
+
+> *cadastro de dados*
+
+> *buscas*
+
+> *listagens*
+
+> *remoções*
+
+# Organização de código 
+
+> *procedimentos*
+
+> *menus*
+
+> *separação da lógica*
+
+</p>
+
+---
+
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Projetos+desenvolvidos" alt="Typing SVG" /></a>
