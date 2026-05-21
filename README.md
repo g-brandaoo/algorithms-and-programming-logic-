@@ -250,4 +250,4 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 
 | Projeto | Descrição |
 |---|---|
-| Sistema de Cadastro | Cadastro simples de usuários utilizando vetores |
+| Sistema de Cadastro | Cadastro simples de usuários utilizando vetores e matriz |
