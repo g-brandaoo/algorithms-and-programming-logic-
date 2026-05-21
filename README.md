@@ -245,3 +245,9 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Projetos+desenvolvidos" alt="Typing SVG" /></a>
+
+<!-- PROJETOS-->
+
+| Projeto | Descrição |
+|---|---|
+| Sistema de Cadastro | Cadastro simples de usuários utilizando vetores |
