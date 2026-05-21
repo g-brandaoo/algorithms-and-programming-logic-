@@ -12,7 +12,7 @@
 
 Repositório criado para armazenar meus estudos, exercícios e projetos que foi desenvolvidos durante o curso de lógica de programação utilizando Portugol e Visualg.
 
-O objetivo deste repositório é documentar minha evolução na programação, praticando os fundamentos mais importantes da lógica antes de avançar para linguagens como Python, Bash e SQL e Linux Futuramente.
+O objetivo deste repositório é documentar minha evolução na programação, praticando os fundamentos mais importantes da lógica antes de avançar para linguagens como Python, Bash, SQL e Linux Futuramente.
 
 </p>
 
