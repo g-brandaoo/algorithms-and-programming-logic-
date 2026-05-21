@@ -139,32 +139,32 @@ Estruturas utilizadas para repetir ações no sistema.
 # Prints do sistema
 
 ## Menu principal
-Adicionar screenshot aqui
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/menu.png" width="100%" alt="banner"/>
 
 ---
 
 ## Cadastro de usuário
-Adicionar screenshot aqui
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/cadastro.png" width="100%" alt="banner"/>
 
 ---
 
 ## Listagem de usuários
-Adicionar screenshot aqui
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/listagem.png" width="100%" alt="banner"/>
 
 ---
 
 ## Busca de usuário
-Adicionar screenshot aqui
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/busca.png" width="100%" alt="banner"/>
 
 ---
 
 ## Edição de usuário
-Adicionar screenshot aqui
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/editar.png" width="100%" alt="banner"/>
 
 ---
 
 ## Remoção de usuário
-Adicionar screenshot aqui
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/remo%C3%A7%C3%A3o.png" width="100%" alt="banner"/>
 
 ---
 
@@ -187,6 +187,6 @@ No futuro quero aprender:
 - banco de dados
 - interfaces gráficas
 - orientação a objetos
-- linguagens como Python e Java
+- linguagens como Python, Bash e SQL 
 
 Esse projeto foi importante porque mostrou na prática como vários conceitos básicos trabalham juntos dentro de um sistema real.
