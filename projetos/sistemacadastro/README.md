@@ -7,19 +7,19 @@
 
 # Sistema de Cadastro de Usuários em Portugol
 
-## Objetivo do projeto
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Objetivo+do+projeto" alt="Typing SVG" /></a>
 
-Este projeto foi desenvolvido para praticar lógica de programação utilizando Portugol no Visualg.
+- Este projeto foi desenvolvido para praticar lógica de programação utilizando Portugol no Visualg.
 
-O sistema permite cadastrar, listar, buscar, editar e remover usuários através de um menu interativo.
+- O sistema permite cadastrar, listar, buscar, editar e remover usuários através de um menu interativo.
 
-A ideia principal foi criar um projeto simples, mas que utilizasse vários conceitos importantes da programação para iniciantes.
+- A ideia principal foi criar um projeto simples, mas que utilizasse vários conceitos importantes da programação para iniciantes.
 
-Esse projeto ajuda no desenvolvimento do raciocínio lógico e na organização de algoritmos.
+- Esse projeto ajuda no desenvolvimento do raciocínio lógico e na organização de algoritmos.
 
 ---
 
-# Funcionalidades
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Funcionalidades" alt="Typing SVG" /></a>
 
 - Cadastro de usuários
 - Listagem de usuários
@@ -31,7 +31,7 @@ Esse projeto ajuda no desenvolvimento do raciocínio lógico e na organização 
 
 ---
 
-# O que foi praticado
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=O+que+foi+praticado" alt="Typing SVG" /></a>
 
 ## Algoritmos
 Foi praticada a construção de algoritmos organizados e estruturados.
@@ -39,7 +39,7 @@ Foi praticada a construção de algoritmos organizados e estruturados.
 ---
 
 ## Entrada e saída de dados
-Utilização de:
+- Utilização de:
 - leia
 - escreva
 - escreval
@@ -89,7 +89,7 @@ Armazenamento de nomes e emails.
 
 ---
 
-# Conceitos usados
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Conceitos+usados" alt="Typing SVG" /></a>
 
 ## Portugol
 Linguagem utilizada para aprendizado de lógica de programação.
@@ -136,7 +136,7 @@ Estruturas utilizadas para repetir ações no sistema.
 
 ---
 
-# Prints do sistema
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Prints+do+sistema" alt="Typing SVG" /></a>
 
 ## Menu principal
 <img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/menu.png" width="100%" alt="banner"/>
@@ -168,7 +168,7 @@ Estruturas utilizadas para repetir ações no sistema.
 
 ---
 
-# O que você aprendeu
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=O+que+voc%C3%AA+aprendeu" alt="Typing SVG" /></a>
 
 Durante esse projeto eu consegui entender melhor como organizar um sistema utilizando lógica de programação.
 
