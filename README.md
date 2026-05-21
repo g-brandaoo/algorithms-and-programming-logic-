@@ -8,7 +8,7 @@
 <!-- TITLE --> 
 
 <p align="left"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monstserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=L%C3%B3gica+de+programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=L%C3%B3gica+de+programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 Repositório criado para armazenar meus estudos, exercícios e projetos que foi desenvolvidos durante o curso de lógica de programação utilizando Portugol e Visualg.
 
@@ -19,7 +19,7 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 ---
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monstserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Objetivos+do+reposit%C3%B3rio" alt="Typing SVG" /</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Objetivos+do+reposit%C3%B3rio" alt="Typing SVG" /></a>
   
 - *Evolução documentada*
 
@@ -38,7 +38,7 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 ---
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monstserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Tecnologias+e+ferramentas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Tecnologias+e+ferramentas" alt="Typing SVG" /></a>
 
 - *Portugol*
 
