@@ -163,13 +163,12 @@ Cálculo automático das notas dos alunos para definir aprovação, recuperaçã
 
 ---
 
-## Inserção de notas
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/notas.png" width="100%" alt="banner"/>
+
 
 ---
 
 ## Listagem de alunos
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/listagem.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/lista.png" width="100%" alt="banner"/>
 
 ---
 
@@ -179,12 +178,12 @@ Cálculo automático das notas dos alunos para definir aprovação, recuperaçã
 ---
 
 ## Edição de aluno
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/editar.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/edita.png" width="100%" alt="banner"/>
 
 ---
 
 ## Remoção de aluno
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/remocao.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/remove.png" width="100%" alt="banner"/>
 
 ---
 
