@@ -183,10 +183,11 @@ Esse projeto ajudou bastante no meu raciocínio lógico, principalmente na parte
 Além disso, consegui melhorar a organização do código usando comentários e separando as funcionalidades em procedimentos.
 
 No futuro quero aprender:
-- arquivos
-- banco de dados
-- segurança da nuvem 
-- segurança da informação
-- linguagens como Python, Bash e SQL 
+- *Python e outras línguas*
+- *Cibersegurança*
+- *Segurança da nuvem*
+- *Redes*
+- *Computadores*
+- *Me adaptar a um sistema operacional linux* 
 
 Esse projeto foi importante porque mostrou na prática como vários conceitos básicos trabalham juntos dentro de um sistema real.
