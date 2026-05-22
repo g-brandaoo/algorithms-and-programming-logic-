@@ -252,3 +252,17 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 |---|---|
 | Sistema de Cadastro | Cadastro simples de usuários utilizando vetores e matriz |
 | Sistema de Média escolar | Média escolar de alunos utilizando operadores matemáticos, lógicos e relacionais |
+
+---
+
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Pr%C3%B3ximos+passos" alt="Typing SVG" /></a>
+
+Após consolidar minha base em Lógica de programação, pretendo estudar:
+
+- *Python e outras línguas*
+- *Cibersegurança*
+- *Segurança da nuvem*
+- *Redes*
+- *Computadores*
+- *Me adaptar a um sistema operacional linux*
