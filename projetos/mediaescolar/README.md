@@ -208,12 +208,11 @@ Além disso, consegui melhorar:
 - lógica de busca e edição
 
 No futuro quero aprender:
-- arquivos
-- banco de dados
-- orientação a objetos
-- Python
-- SQL
-- segurança da informação
-- desenvolvimento de sistemas mais complexos
+- *Python e outras línguas*
+- *Cibersegurança*
+- *Segurança da nuvem*
+- *Redes*
+- *Computadores*
+- *Me adaptar a um sistema operacional linux*
 
 Esse projeto foi importante porque mostrou na prática como vários conceitos básicos trabalham juntos dentro de um sistema real.
