@@ -185,8 +185,8 @@ Além disso, consegui melhorar a organização do código usando comentários e 
 No futuro quero aprender:
 - arquivos
 - banco de dados
-- interfaces gráficas
-- orientação a objetos
+- segurança da nuvem 
+- segurança da informação
 - linguagens como Python, Bash e SQL 
 
 Esse projeto foi importante porque mostrou na prática como vários conceitos básicos trabalham juntos dentro de um sistema real.
