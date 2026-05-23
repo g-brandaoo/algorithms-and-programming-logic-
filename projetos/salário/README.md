@@ -177,11 +177,6 @@ Estruturas utilizadas para repetir ações no sistema.
 
 ---
 
-## Resumo salarial
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemasalario/prints/resumo.png" width="100%" alt="banner"/>
-
----
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=O+que+voc%C3%AA+aprendeu" alt="Typing SVG" /></a>
 
 Durante esse projeto eu consegui entender melhor como organizar um sistema utilizando lógica de programação.
