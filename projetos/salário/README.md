@@ -148,32 +148,32 @@ Estruturas utilizadas para repetir ações no sistema.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Prints+do+sistema" alt="Typing SVG" /></a>
 
 ## Menu principal
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salario/prints/menu.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/menu.png" width="100%" alt="banner"/>
 
 ---
 
 ## Cadastro de funcionário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salario/prints/cadastro.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/cadastro.png" width="100%" alt="banner"/>
 
 ---
 
 ## Listagem de funcionários
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salario/prints/listagem.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/listagem.png" width="100%" alt="banner"/>
 
 ---
 
 ## Busca de funcionário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salario/prints/busca.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/busca.png" width="100%" alt="banner"/>
 
 ---
 
 ## Edição de funcionário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salario/prints/editar.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/editar.png" width="100%" alt="banner"/>
 
 ---
 
 ## Remoção de funcionário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salario/prints/remocao.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/remocao.png" width="100%" alt="banner"/>
 
 ---
 
