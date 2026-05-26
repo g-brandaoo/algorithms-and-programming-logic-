@@ -250,9 +250,9 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 
 | Projeto | Descrição |
 |---|---|
-| Sistema de Cadastro | Cadastro simples de usuários utilizando vetores e matriz |
-| Sistema de Média escolar | Média escolar de alunos utilizando operadores matemáticos, lógicos e relacionais |
-| Sistema de Verificador de acesso | Verificador de acesso utilizando portugol, vetores, matrizes e validação de login |
+| ⏳ | ⏳ |
+| ⏳ | ⏳ |
+| ⏳ | ⏳ |
 
 
 ---
