@@ -1,0 +1,34 @@
+algoritmo "SistemaNotasDinheiro"
+var
+   nota100, nota200, nota50, nota20, nota10, nota5, nota2: inteiro
+      total: inteiro
+
+      inicio
+         escreval("=== Sistema de Notas de Dinheiro ===")
+
+            escreva("Digite a quantidade de notas de 200: ")
+               leia(nota200)
+
+                  escreva("Digite a quantidade de notas de 100: ")
+                     leia(nota100)
+
+                        escreva("Digite a quantidade de notas de 50: ")
+                           leia(nota50)
+
+                              escreva("Digite a quantidade de notas de 20: ")
+                                 leia(nota20)
+
+                                    escreva("Digite a quantidade de notas de 10: ")
+                                       leia(nota10)
+
+                                          escreva("Digite a quantidade de notas de 5: ")
+                                             leia(nota5)
+
+                                                escreva("Digite a quantidade de notas de 2: ")
+                                                   leia(nota2)
+
+                                                      total <- (nota200 * 200) + (nota100 * 100) + (nota50 * 50) + (nota20 * 20) + (nota10 * 10) + (nota5 * 5) + (nota2 * 2)
+
+                                                         escreval("Valor total em dinheiro: R$ ", total)
+
+                                                         fimalgoritmo 
