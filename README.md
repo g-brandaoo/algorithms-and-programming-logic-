@@ -248,11 +248,23 @@ O objetivo deste repositório é documentar minha evolução na programação, p
 
 <!-- PROJETOS-->
 
-| Projeto | Descrição |
-|---|---|
-| ⏳ | ⏳ |
-| ⏳ | ⏳ |
-| ⏳ | ⏳ |
+| Projeto               | Descrição                                                                                    |
+| --------------------- | -------------------------------------------------------------------------------------------- |
+| Adivinhar Número      | Jogo onde o usuário tenta descobrir um número secreto utilizando lógica de tentativa e erro. |
+| Aprovação Escolar     | Sistema que calcula média e frequência do aluno para verificar aprovação ou reprovação.      |
+| Banco                 | Sistema bancário simples com depósito, saque e consulta de saldo.                            |
+| Biblioteca Matemática | Projeto que realiza operações matemáticas básicas entre dois números.                        |
+| Cadastro              | Sistema simples de cadastro de informações utilizando entrada de dados e vetores.            |
+| Contador              | Sistema de contagem utilizando estruturas de repetição.                                      |
+| Média Escolar         | Sistema de cadastro de alunos com cálculo e gerenciamento de médias escolares.               |
+| Jogo RPG              | Mini RPG com sistema de batalha, pontos e progressão simples.                                |
+| Login Infinito        | Sistema de login contínuo com validação de usuário e senha.                                  |
+| Mercado               | Sistema de compra de produtos com cálculo de pagamento e troco.                              |
+| Modular               | Projeto focado em modularização utilizando procedimentos e funções.                          |
+| Notas Dinheiro        | Sistema para trabalhar cálculos envolvendo notas, dinheiro e operações matemáticas.          |
+| Salário               | Sistema de cadastro e gerenciamento de salários de funcionários.                             |
+| Verificador de Acesso | Sistema de login e gerenciamento de usuários utilizando vetores e menus.                     |
+| Sistema Operacional de RPG completo em Portugol |                   ⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳                          |
 
 
 ---
