@@ -280,3 +280,14 @@ Após consolidar minha base em Lógica de programação, pretendo estudar:
 - *Redes*
 - *Computadores*
 - *Me adaptar a um sistema operacional linux*
+
+---
+
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&width=435&lines=Observações" alt="Typing SVG" /></a>
+
+Esse repositório representa minha evolução prática na programação. 
+O foco não é criar projetos extremamente complexo no início, mas sim
+construir fundamentos sólidos através de exercícios e sistemas 
+simples. 
+
