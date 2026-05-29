@@ -119,27 +119,27 @@ Atualização e reorganização de registros dentro dos vetores.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Prints+do+sistema" alt="Typing SVG" /></a>
 
 ## Menu principal
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastrosalario/prints/menu.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/menu.png" width="100%" alt="banner"/>
 
 ---
 
 ## Cadastro de funcionário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastrosalario/prints/cadastro.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/cadastro.png" width="100%" alt="banner"/>
 
 ---
 
 ## Listagem de funcionários
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastrosalario/prints/listagem.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/listagem.png" width="100%" alt="banner"/>
 
 ---
 
 ## Atualização de salário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastrosalario/prints/editar.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/editar.png" width="100%" alt="banner"/>
 
 ---
 
 ## Exclusão de funcionário
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastrosalario/prints/excluir.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/salário/prints/excluir.png" width="100%" alt="banner"/>
 
 ---
 
