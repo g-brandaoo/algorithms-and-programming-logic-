@@ -111,13 +111,13 @@ Utilização de informações digitadas pelo usuário para realizar os cálculos
 
 ## Entrada das notas
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemanotas/prints/entrada.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/notas/prints/entrada.png" width="100%" alt="banner"/>
 
 ---
 
 ## Resultado final
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemanotas/prints/resultado.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/notas/prints/resultado.png" width="100%" alt="banner"/>
 
 ---
 
