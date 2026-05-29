@@ -109,15 +109,9 @@ Utilização de informações digitadas pelo usuário para realizar os cálculos
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Prints+do+sistema" alt="Typing SVG" /></a>
 
-## Entrada das notas
+## Entrada e resultado final
 
 <img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/notas/prints/entrada.png" width="100%" alt="banner"/>
-
----
-
-## Resultado final
-
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/notas/prints/resultado.png" width="100%" alt="banner"/>
 
 ---
 
