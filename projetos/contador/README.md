@@ -132,19 +132,19 @@ Utilizado para controlar o início e o fim da repetição.
 
 ## Entrada do número
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/contadorsimples/prints/entrada.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/contador/prints/entrada.png" width="100%" alt="banner"/>
 
 ---
 
 ## Contagem regressiva
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/contadorsimples/prints/contagem.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/contador/prints/contagem.png" width="100%" alt="banner"/>
 
 ---
 
 ## Finalização do sistema
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/contadorsimples/prints/fim.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/contador/prints/fim.png" width="100%" alt="banner"/>
 
 ---
 
