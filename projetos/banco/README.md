@@ -151,25 +151,25 @@ Estrutura utilizada para permitir múltiplas operações dentro do sistema.
 
 ## Menu principal
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemabancario/prints/menu.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/banco/prints/menu.png" width="100%" alt="banner"/>
 
 ---
 
 ## Operação de depósito
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemabancario/prints/deposito.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/banco/prints/deposito.png" width="100%" alt="banner"/>
 
 ---
 
 ## Operação de saque
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemabancario/prints/saque.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/banco/prints/saque.png" width="100%" alt="banner"/>
 
 ---
 
 ## Consulta de saldo
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemabancario/prints/saldo.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/banco/prints/saldo.png" width="100%" alt="banner"/>
 
 ---
 
