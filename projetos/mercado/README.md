@@ -132,18 +132,6 @@ Estruturas utilizadas para armazenar os dados da compra.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=89CFF0&repeat=false&width=435&lines=Prints+do+sistema" alt="Typing SVG" /></a>
 
-## Cadastro do produto
-
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mercado/prints/produto.png" width="100%" alt="banner"/>
-
----
-
-## Pagamento da compra
-
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mercado/prints/pagamento.png" width="100%" alt="banner"/>
-
----
-
 ## Resultado da compra
 
 <img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mercado/prints/resultado.png" width="100%" alt="banner"/>
