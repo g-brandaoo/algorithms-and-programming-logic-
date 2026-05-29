@@ -159,31 +159,31 @@ Estrutura utilizada para permitir compra de itens dentro do jogo.
 
 ## Início da batalha
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpgmercadosimples/prints/inicio.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpg/prints/inicio.png" width="100%" alt="banner"/>
 
 ---
 
 ## Ataque do herói
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpgmercadosimples/prints/ataque.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpg/prints/ataque.png" width="100%" alt="banner"/>
 
 ---
 
 ## Compra da espada
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpgmercadosimples/prints/mercado.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpg/prints/mercado.png" width="100%" alt="banner"/>
 
 ---
 
 ## Vitória do herói
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpgmercadosimples/prints/vitoria.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpg/prints/vitoria.png" width="100%" alt="banner"/>
 
 ---
 
 ## Fim da batalha
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpgmercadosimples/prints/fim.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/jogorpg/prints/fim.png" width="100%" alt="banner"/>
 
 ---
 
