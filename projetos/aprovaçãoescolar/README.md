@@ -142,13 +142,13 @@ Estruturas utilizadas para armazenar os dados do aluno.
 
 ## Entrada de dados
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/aprovacaoescolar/prints/entrada.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/aprovaçãoescolar/prints/entrada.png" width="100%" alt="banner"/>
 
 ---
 
 ## Resultado final
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/aprovacaoescolar/prints/resultado.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/aprovaçãoescolar/prints/resultado.png" width="100%" alt="banner"/>
 
 ---
 
