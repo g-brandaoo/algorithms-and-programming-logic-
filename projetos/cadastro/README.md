@@ -126,31 +126,31 @@ Estruturas utilizadas para repetir ações no sistema.
 
 ## Menu principal
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/menu.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastro/prints/menu.png" width="100%" alt="banner"/>
 
 ---
 
 ## Cadastro de usuário
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/cadastro.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastro/prints/cadastro.png" width="100%" alt="banner"/>
 
 ---
 
 ## Listagem de usuários
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/listagem.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastro/prints/listagem.png" width="100%" alt="banner"/>
 
 ---
 
 ## Edição de usuário
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/edicao.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastro/prints/edicao.png" width="100%" alt="banner"/>
 
 ---
 
 ## Remoção de usuário
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemacadastro/prints/remocao.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/cadastro/prints/remocao.png" width="100%" alt="banner"/>
 
 ---
 
