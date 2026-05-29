@@ -120,19 +120,19 @@ Estruturas utilizadas para armazenar os dados do jogo.
 
 ## Tela inicial
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/advinhacaonumero/prints/inicio.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/advinharnumero/prints/inicio.png" width="100%" alt="banner"/>
 
 ---
 
 ## Tentativa do usuário
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/advinhacaonumero/prints/palpite.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/advinharnumero/prints/palpite.png" width="100%" alt="banner"/>
 
 ---
 
 ## Resultado do jogo
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/advinhacaonumero/prints/resultado.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/advinharnumero/prints/resultado.png" width="100%" alt="banner"/>
 
 ---
 
