@@ -155,31 +155,31 @@ Estrutura utilizada para permitir múltiplas operações dentro do sistema.
 
 ## Menu principal
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/menu.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/escolarmedia/prints/menu.png" width="100%" alt="banner"/>
 
 ---
 
 ## Cadastro de aluno
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/cadastro.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/escolarmedia/prints/cadastro.png" width="100%" alt="banner"/>
 
 ---
 
 ## Listagem de alunos
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/listagem.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/escolarmedia/prints/listagem.png" width="100%" alt="banner"/>
 
 ---
 
 ## Edição de notas
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/edicao.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/escolarmedia/prints/edicao.png" width="100%" alt="banner"/>
 
 ---
 
 ## Exclusão de aluno
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/mediaescolar/prints/exclusao.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/escolarmedia/prints/exclusao.png" width="100%" alt="banner"/>
 
 ---
 
