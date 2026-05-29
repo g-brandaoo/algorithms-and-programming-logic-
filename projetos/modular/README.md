@@ -121,13 +121,13 @@ Utilizados para comparar resultados dentro do algoritmo.
 
 ## Entrada dos valores
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemamodular/prints/entrada.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/modular/prints/entrada.png" width="100%" alt="banner"/>
 
 ---
 
 ## Resultado da verificação
 
-<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/sistemamodular/prints/resultado.png" width="100%" alt="banner"/>
+<img src="https://github.com/g-brandaoo/logicprogrammingcourse/blob/main/projetos/modular/prints/resultado.png" width="100%" alt="banner"/>
 
 ---
 
